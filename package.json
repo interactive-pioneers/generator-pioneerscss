@@ -28,7 +28,7 @@
     "eslint-config-xo-space": "^0.24.0",
     "jest": "^25.1.0",
     "jest-cli": "^25.1.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-lint": "^1.13.1",
     "yeoman-assert": "^3.1.1",
     "yeoman-test": "^2.3.0"
